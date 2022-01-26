@@ -10,7 +10,7 @@ The main purpose of this project is training C# syntax and learn how to Razor pa
 I create a book list with CRUD operations.
 
 ## Technologies Used
-- Tech 1 - Visual Studio 2020
+- Tech 1 - Visual Studio 2022
 - Tech 2 - MySql
 
 ## Project Status
